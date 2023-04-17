@@ -4,6 +4,6 @@
 
 #### Depression and Anxiety Detection using Twitter data
 
-##resources
+### Resources
 ##### https://github.com/swcwang/depression-detection
 ##### https://www.kaggle.com/code/sergiovirahonda/depression-anxiety-on-twitter/notebook#Model-3
